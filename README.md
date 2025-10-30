@@ -6,7 +6,7 @@ It highlights sales trends, top-performing products, and category performance th
 ---
 
 ## 🖼️ Dashboard Preview
-![Amazon Sales Dashboard](Images/Dashboard_Preview.png)
+<img src="Dashboard_Preview.png" alt="Amazon Sales Dashboard" width="900">
 
 > 📊 This dashboard visualizes Amazon's YTD & QTD Sales, Top Products, and Category Performance.
 
@@ -69,7 +69,7 @@ It highlights sales trends, top-performing products, and category performance th
 **Md Sahanwaj Khan**  
 Master of Computer Applications (MCA)  
 Galgotias College of Engineering and Technology  
-📧 [your_email_here@gmail.com]  
+📧 [mskhan6812@gmail.com]  
 
 ---
 
@@ -80,11 +80,10 @@ Galgotias College of Engineering and Technology
 | `Amazon_Sales_Data.xlsx` | Dataset used for analysis |
 | `Amazon_Product_Sales_Analysis_Report.docx` | Detailed project report |
 | `Amazon_Dashboard_Background.jpg` | Dashboard background image |
-| `Images/Dashboard_Preview.png` | Screenshot of dashboard preview |
+| `Dashboard_Preview.png` | Screenshot of dashboard preview |
 
 ---
 
 ## 🌐 Project Repository Link
 👉 [GitHub Repository – Amazon Product Sales Analysis](https://github.com/Mskhan-6812/Amazon_Product_Sales_Analysis)
-
 
